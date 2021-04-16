@@ -1,3 +1,10 @@
+# About this Repository
+
+This is a fork of the [official Seurat repository](https://github.com/satijalab/seurat) used for multi-way WNN analysis in [Swanson, et al., eLife, 2020](https://elifesciences.org/articles/63632) prior to the availability of multi-way WNN in the Seurat v4.0 Beta.
+
+Multi-way WNN analysis is now implemented in Release version of Seurat v4.0, so we recommend that users utilize [the official implementation](https://github.com/satijalab/seurat) rather than this repository unless reproducing the analysis in Swanson, et al.
+
+
 [![Build Status](https://travis-ci.com/satijalab/seurat.svg?branch=master)](https://travis-ci.com/satijalab/seurat)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/satijalab/seurat?branch=master&svg=true)](https://ci.appveyor.com/project/satijalab/seurat)
 [![CRAN Version](https://www.r-pkg.org/badges/version/Seurat)](https://cran.r-project.org/package=Seurat)
