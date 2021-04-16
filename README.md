@@ -1,8 +1,10 @@
 # About this Repository
 
-This is a fork of the [official Seurat repository](https://github.com/satijalab/seurat) modified for our own version of multi-way WNN analysis in [Swanson, et al., eLife, 2020](https://elifesciences.org/articles/63632) prior to the availability of multi-way WNN in the Seurat v4.0 Beta.
+This is a fork of the now outdated Seurat v4.0 Beta repository modified for our own version of multi-way WNN analysis in [Swanson, *et al.*, eLife, 2020](https://elifesciences.org/articles/63632) prior to the availability of multi-way WNN in the Seurat v4.0 Beta.
 
-Multi-way WNN analysis is now implemented in Release version of Seurat v4.0. We recommend that users utilize [the official implementation](https://github.com/satijalab/seurat) rather than this repository unless reproducing the analysis in Swanson, et al.
+Multi-way WNN analysis is now implemented in Release version of [Seurat v4.0](https://github.com/satijalab/seurat) using the `FindMultimodalNeighbors()` function. 
+
+We recommend that users utilize [the official implementation](https://github.com/satijalab/seurat) rather than this repository unless reproducing analysis from Swanson, *et al.*
 
 
 [![Build Status](https://travis-ci.com/satijalab/seurat.svg?branch=master)](https://travis-ci.com/satijalab/seurat)
